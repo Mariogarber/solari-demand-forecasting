@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local environment and credentials
+.env
+.env.*
+kaggle.json
+
+# Competition data (subject to Kaggle competition rules)
+data/
+
+# Generated artifacts
+outputs/
+models/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+
